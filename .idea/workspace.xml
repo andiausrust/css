@@ -2,26 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e8d4512-b53d-4d10-b3ce-7117cb1a44b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css-course/customers/customers.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css-course/customers/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css-course/images/customer-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css-course/images/customer-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css-course/images/plans-background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css-course/images/uhost-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css-course/packages/AnonymousPro-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css-course/packages/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css-course/packages/packages.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css-course/shared.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css-course/start-hosting/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css-course/start-hosting/start-hosting.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css-course/freedom.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css-course/images/freedom.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css-course/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/css-course/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css-course/customers/customers.css" beforeDir="false" afterPath="$PROJECT_DIR$/css-course/customers/customers.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css-course/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css-course/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css-course/packages/AnonymousPro-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/css-course/packages/anonymousPro-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css-course/packages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/css-course/packages/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css-course/packages/packages.css" beforeDir="false" afterPath="$PROJECT_DIR$/css-course/packages/packages.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css-course/shared.css" beforeDir="false" afterPath="$PROJECT_DIR$/css-course/shared.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/packages.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css-course/shared.js" beforeDir="false" afterPath="$PROJECT_DIR$/css-course/shared.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css-course/start-hosting/start-hosting.css" beforeDir="false" afterPath="$PROJECT_DIR$/css-course/start-hosting/start-hosting.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -39,53 +28,17 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css-course/customers/customers.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1577">
-                  <caret line="83" column="2" selection-start-line="83" selection-start-column="2" selection-end-line="83" selection-end-column="2" />
+                <state relative-caret-position="266">
+                  <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/css-course/packages/packages.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="38">
-                  <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/css-course/start-hosting/start-hosting.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1520">
-                  <caret line="80" column="1" selection-start-line="80" selection-start-column="1" selection-end-line="80" selection-end-column="1" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css-course/shared.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="323">
-                  <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/css-course/shared.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="855">
-                  <caret line="45" selection-start-line="45" selection-end-line="45" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/css-course/main.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="3439">
-                  <caret line="181" column="28" selection-start-line="181" selection-start-column="28" selection-end-line="181" selection-end-column="28" />
+                <state relative-caret-position="456">
+                  <caret line="24" selection-start-line="24" selection-end-line="24" />
                 </state>
               </provider>
             </entry>
@@ -97,17 +50,17 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css-course/customers/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="152">
+                <state relative-caret-position="99">
                   <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css-course/packages/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="152">
-                  <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+                <state relative-caret-position="764">
+                  <caret line="95" column="7" selection-start-line="95" selection-start-column="7" selection-end-line="95" selection-end-column="7" />
                 </state>
               </provider>
             </entry>
@@ -115,8 +68,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css-course/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="133">
-                  <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+                <state relative-caret-position="232">
+                  <caret line="67" column="36" selection-start-line="67" selection-start-column="36" selection-end-line="67" selection-end-column="36" />
                   <folding>
                     <element signature="n#svg#0;n#div#0;n#li#0;n#ul#0;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#path#0;n#svg#0;n#div#0;n#li#0;n#ul#0;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
@@ -130,7 +83,7 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css-course/start-hosting/index.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="152">
@@ -151,6 +104,9 @@
       <find>package</find>
       <find>backdrop</find>
       <find>signup-form</find>
+      <find>mobile</find>
+      <find>mo</find>
+      <find>grid</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -163,21 +119,20 @@
         <option value="$PROJECT_DIR$/packages/index.html" />
         <option value="$PROJECT_DIR$/packages/packages.css" />
         <option value="$PROJECT_DIR$/css-course/shared.js" />
-        <option value="$PROJECT_DIR$/css-course/main.css" />
-        <option value="$PROJECT_DIR$/css-course/customers/customers.css" />
         <option value="$PROJECT_DIR$/css-course/start-hosting/packages.css" />
         <option value="$PROJECT_DIR$/css-course/start-hosting/start-hosting.css" />
-        <option value="$PROJECT_DIR$/css-course/packages/index.html" />
         <option value="$PROJECT_DIR$/css-course/index.html" />
         <option value="$PROJECT_DIR$/css-course/customers/index.html" />
         <option value="$PROJECT_DIR$/css-course/start-hosting/index.html" />
-        <option value="$PROJECT_DIR$/css-course/shared.css" />
+        <option value="$PROJECT_DIR$/css-course/packages/index.html" />
         <option value="$PROJECT_DIR$/css-course/packages/packages.css" />
+        <option value="$PROJECT_DIR$/css-course/customers/customers.css" />
+        <option value="$PROJECT_DIR$/css-course/main.css" />
+        <option value="$PROJECT_DIR$/css-course/shared.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1" />
     <option name="y" value="23" />
     <option name="width" value="2237" />
     <option name="height" value="1328" />
@@ -236,7 +191,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/css-course/customers" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css-course" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -249,17 +204,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css-course" />
       <recent name="$PROJECT_DIR$/css-course/customers" />
       <recent name="$PROJECT_DIR$/css-course/packages" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/css-course" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/css-course/packages" />
       <recent name="$PROJECT_DIR$/css-course" />
+      <recent name="$PROJECT_DIR$/css-course/start-hosting" />
+      <recent name="$PROJECT_DIR$/css-course/packages" />
       <recent name="$PROJECT_DIR$/css-course/customers" />
       <recent name="$PROJECT_DIR$/css-course/images" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -286,17 +241,35 @@
       <updated>1563983502905</updated>
       <workItem from="1563983505396" duration="3629000" />
       <workItem from="1563987495815" duration="476000" />
-      <workItem from="1563988113301" duration="37171000" />
+      <workItem from="1563988113301" duration="48030000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41276000" />
+    <option name="totallyTimeSpent" value="52135000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="23" width="2556" height="1328" extended-state="6" />
-    <editor active="true" />
     <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49947202" visible="true" weight="0.10729783" />
+      <window_info id="Structure" order="1" sideWeight="0.500528" side_tool="true" weight="0.10729783" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.23381877" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49947202" visible="true" weight="0.10729783" />
       <window_info id="Structure" order="1" sideWeight="0.500528" side_tool="true" weight="0.10729783" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -314,7 +287,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -330,68 +303,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css-course/shared.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css-course/start-hosting/start-hosting.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1520">
           <caret line="80" column="1" selection-start-line="80" selection-start-column="1" selection-end-line="80" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css-course/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
-          <folding>
-            <element signature="n#svg#0;n#div#0;n#li#0;n#ul#0;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#path#0;n#svg#0;n#div#0;n#li#0;n#ul#0;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#path#1;n#svg#0;n#div#0;n#li#0;n#ul#0;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#path#2;n#svg#0;n#div#0;n#li#0;n#ul#0;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#svg#0;n#div#0;n#li#1;n#ul#0;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#svg#0;n#div#0;n#li#2;n#ul#0;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#path#0;n#svg#0;n#div#0;n#li#2;n#ul#0;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css-course/customers/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css-course/packages/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css-course/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3439">
-          <caret line="181" column="28" selection-start-line="181" selection-start-column="28" selection-end-line="181" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css-course/shared.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css-course/customers/customers.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1577">
-          <caret line="83" column="2" selection-start-line="83" selection-start-column="2" selection-end-line="83" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -405,10 +320,75 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="4842" column="13" selection-start-line="4842" selection-start-column="13" selection-end-line="4842" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css-course/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="67" column="36" selection-start-line="67" selection-start-column="36" selection-end-line="67" selection-end-column="36" />
+          <folding>
+            <element signature="n#svg#0;n#div#0;n#li#0;n#ul#0;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#path#0;n#svg#0;n#div#0;n#li#0;n#ul#0;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#path#1;n#svg#0;n#div#0;n#li#0;n#ul#0;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#path#2;n#svg#0;n#div#0;n#li#0;n#ul#0;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#svg#0;n#div#0;n#li#1;n#ul#0;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#svg#0;n#div#0;n#li#2;n#ul#0;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#path#0;n#svg#0;n#div#0;n#li#2;n#ul#0;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css-course/packages/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="764">
+          <caret line="95" column="7" selection-start-line="95" selection-start-column="7" selection-end-line="95" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css-course/packages/packages.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        <state relative-caret-position="-828">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css-course/shared.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css-course/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="170" column="61" selection-start-line="170" selection-start-column="61" selection-end-line="170" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css-course/customers/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css-course/customers/customers.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css-course/shared.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
